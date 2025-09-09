@@ -1,0 +1,10 @@
+1. create project template by ececulting template.py file
+2. write the code on setup.py and pyproject.toml file to import local packages
+    >> Find more about "setup.py and pyproject.toml file to import local packages 
+
+3. Create a virtual env ,active it and install the requirements from requirements.txt
+conda create -n proj1 python-3.10.-y
+conda active proj1
+add requied modules to requirements.txt
+Do "pip install -r requireets.txt
+4. Do a "pip list on terminal to make sure you have local packages installed
